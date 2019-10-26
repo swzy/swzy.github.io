@@ -6,9 +6,9 @@ layout: page
 
 <p>I am a Big Data Software Developer for State Farm. My head is currently in the (AWS) Clouds!</p>
 
-<p>During my time at University I gained extensive experience tutoring in Molecular Biology, Organic Chemistry, and Calculus. I also worked a stint as a Library Associate so if you need help finding something let me know!</p>
+<p>I've attended numerous hackathons and spend most of my free development time on Android Augmented Reality (AR) applications.</p>
 
-<p>I attended variety of hackathons and spent most of my free development time on Android Augmented Reality (AR) applications.</p>
+<p>During my time at University I gained extensive experience tutoring in Molecular Biology, Organic Chemistry, and Calculus. I also worked a stint as a Library Associate so if you need help finding something let me know!</p>
 
 <h2>Skills and Experience</h2>
 
