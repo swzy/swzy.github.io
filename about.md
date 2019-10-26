@@ -1,46 +1,27 @@
 ---
-title: About
+title: About Me, Sam Yi
 layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I am a Big Data Software Developer for State Farm. My head is currently in the (AWS) Clouds!</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>During my time at University I gained extensive experience tutoring in Molecular Biology, Organic Chemistry, and Calculus. I also worked a stint as a Library Associate so if you need help finding something let me know!</p>
 
-<h2>Skills</h2>
+<p>I attended variety of hackathons and spent most of my free development time on Android Augmented Reality (AR) applications.</p>
+
+<h2>Skills and Experience</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Language of Choice: Python w/focus on data transformations in AWS services and Informatica tool suite.</li>
+	<li>AWS - Lambda, EC2, S3, Glue, DynamoDB, Step Functions</li>
+	<li>DevOps - Terraform, GitLab CI/CD, Docker</li>
+	<li>Android - Java, Kotlin, Google ARCore</li>
+	<li>Web - JavaScript/NodeJS, PHP, HTML/CSS</li>
 </ul>
 
-<h2>Projects</h2>
+<h2>Personal Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/swzy">Github</a></li>
 </ul>
