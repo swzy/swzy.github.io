@@ -1,6 +1,6 @@
 # main text of home
 name: Sam Yi
-bio: Developer, Gamer, and Human Bean.
+bio: Developer, Gamer, and Regular Human Bean.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -14,7 +14,8 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+# resume-url: https://google.com/?q=my+resume
+resume-url: https://drive.google.com/open?id=12H95ypdz_AeOZujZLm4QoRziEz9NRgBe
 
 url: https://swzy.github.io
 # your url: http://USERNAME.github.io
@@ -51,7 +52,7 @@ email: swzy92@gmail.com
 authors:
     Sam Yi:
         name: Sam Yi
-        bio: Developer, Gamer, and Regular Human
+        bio: Developer, Gamer, and Regular Human Bean
         external-image: false
         picture: assets/images/profile.jpg
 
@@ -84,7 +85,7 @@ related: true
 post-advance-links: [blog]
 
 # show author block at the end of a post ?
-show-author: true
+show-author: false
 
 # do you want some animations?
 animation: true

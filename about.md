@@ -1,5 +1,5 @@
 ---
-title: About Me, Sam Yi
+title: About Me
 layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
