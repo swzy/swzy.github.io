@@ -13,3 +13,7 @@ I'm back from taking a long hiatus. I wish I could say I was solving some amazin
 I want to blog more regularly so that my feelings don't get so jumbled so this is my attempt at doing so. I am also restarting TheOdinProject to potentially get out of the data space at work into more active development and coding.
 
 Let's see how it goes.
+
+# 1:47AM
+
+Started from TOP WebDev101. Getting CSS is so tedious but for some reason I am stuck on trying to get it just right. Trying to replicate Google's home page and will have to spend more time tomorrow.
