@@ -1,7 +1,7 @@
 ---
 title: "Life Happens."
 layout: post
-date: 2019-8-6 3:34PM
+date: 2020-8-6 22:57
 headerImage: false
 category: blog
 author: Sam Yi
