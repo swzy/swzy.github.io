@@ -14,11 +14,11 @@ Two days in a row. Not a trend yet but it's a good sign. Will get back to that C
 
 Almost there. It's been interesting avoiding the ``` { display: block; display: inline-block; } ``` CSS declarations and sticking to Flexbox. I think this will serve me better in learning to organize web page layouts in the long run but I'm sure that making finicky, fine-grained margin/padding adjustments to compensate for not knowing how to use the other display properties is not best practice.
 
-<br/><img src=../assets/images/Foogle_incomplete.png width="600"><br/>
+![Incomplete Google mock page](https://github.com/swzy/swzy.github.io/blob/master/assets/images/Foogle_incomplete.png?raw=true)
 _Still working on that pesky search bar..._
 
 # 00:14
 
 Finished! Not too shabby if I say so myself. Probably took way too long though.
 
-<br/><img src=../assets/images/Foogle.png width="600"><br/>
+![Google mock page](https://github.com/swzy/swzy.github.io/blob/master/assets/images/Foogle.png?raw=true)
