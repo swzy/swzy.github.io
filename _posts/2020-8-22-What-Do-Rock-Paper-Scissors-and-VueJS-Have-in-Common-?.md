@@ -40,3 +40,5 @@ This is where I can be the most creative. I designed for the Options components 
 I only added this after writing out the different components, but it may be a better design to have a game component that holds on to the global game settings and keeps track of the wins. This likely means that the Game will first communicate with the Start Menu and then will receive data from The Center Field when rounds are decided. Kind of interesting to think about.
 
 I haven't decided on the exact styling I want but I think it's important to focus more on the actual project structure and the component dynamics. Will update in a few hours.
+
+*Totally did not update. But am making progress that I will record when I think it's substantial. There's alot to take in!*
