@@ -1,5 +1,5 @@
 ---
-title: "What-Do-Rock-Paper-Scissors-and-VueJS-Have-in-Common-?"
+title: "What Do Rock-Paper-Scissors and VueJS Have in Common?"
 layout: post
 date: 2020-8-22 11:57
 headerImage: false
