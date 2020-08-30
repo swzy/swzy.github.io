@@ -8,9 +8,9 @@ author: Sam Yi
 description: Monthly Summary
 ---
 
-It's been extremely difficult, but I'm starting to get past the point where I'm reducing my problems to "laziness" and trying to take a more nuanced perspective and understanding of myself. As an example, I've struggled my entire life with totally trashing my self-esteem and confidence from my failures, real or perceived. It's a tactic that has worked for me in the past but, these days, I find that I shut down far more than I used to in the past.
+It's been extremely difficult, but I'm starting to get past the point where I'm reducing my problems to "laziness" and trying to take a more nuanced perspective and understanding of myself. As an example, I've struggled my entire life with totally trashing my self-esteem and confidence from my failures, real or perceived. It's a tactic that has worked for me in the past but, these days, I find that I shut down far more than I used to.
 
-But like I said, I'm slowly getting better. And even though I have a private blog where this type of self-reflection may be more appropriate, I want to use this outlet to help keep myself accountable.
+But like I said, I'm slowly getting better. And even though I have a private blog where this type of self-reflection may be more appropriate, I want to use this outlet to help keep myself accountable, both from a productivity standpoint but also just being better to myself.
 
 # August 2020 Summation
 * Covered JavaScript basics and restarted TheOdinProject

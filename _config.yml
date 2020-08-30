@@ -1,6 +1,6 @@
 # main text of home
 name: Sam Yi
-bio: Developer, Gamer, and Regular Human Bean.
+bio: Developer, Gamer, and Simple Person.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -52,7 +52,7 @@ email: swzy92@gmail.com
 authors:
     Sam Yi:
         name: Sam Yi
-        bio: Developer, Gamer, and Regular Human Bean
+        bio: Developer, Gamer, and Simple Person
         external-image: false
         picture: assets/images/profile.jpg
 
